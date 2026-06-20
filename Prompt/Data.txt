@@ -1,0 +1,28 @@
+Product Name	Price (PKR)	Rating	Reviews	Category	Image File
+7 Up Can	250	4	18	soft drinks	7 up Can.jpg
+7 Up	        220	5	24	soft drinks	7 up.png
+Black Tea	450	5	31	tea	black tea.jpg
+Brownies	650	5	27	desserts	Brownies.jpg
+Cake Slice Classic	700	4	19	cakes	Cakes1.png
+Chocolate Cake	850	5	34	cakes	Cakes2.png
+Vanilla Cake	800	4	22	cakes	Cakes3.png
+Strawberry Cake	900	5	29	cakes	Cakes4.jpg
+Premium Cake	1200	5	41	cakes	Cakes5.jpg
+Cappuccino	750	5	36	coffee	cappuccino.png
+Coca Cola Can	250	4	21	soft drinks	Coca Can.png
+Coca Cola	220	5	30	soft drinks	Coca.png
+Hot Coffee	500	4	20	coffee	coffee.jpg
+Cold Coffee	850	5	38	coffee	Cold Coffee.png
+Donuts	        400	5	33	bakery	Donuts.png
+Espresso Classic	600	5	26	coffee	Espresso.jpg
+Espresso Premium	700	4	17	coffee	Espresso.png
+Fanta           220	4	16	soft drinks	Fanta.png
+Fruit Bowl	950	5	28	healthy	Fruit Bowl.jpg
+Green Tea	500	5	35	tea	green tea.png
+Iced Tea	650	4	24	tea	Iced Tea.jpg
+Latte	        800	5	32	coffee	latte.png
+Mineral Water	120	5	40	drinks	Mineral Water.jpg
+Muffins	        450	4	23	bakery	Muffins.jpg
+Pastries	550	5	31	desserts	Pastries.jpg
+Sprite Can	250	4	20	soft drinks	Sprite Can.png
+Tea	        100	5	37	tea	Tea.png
